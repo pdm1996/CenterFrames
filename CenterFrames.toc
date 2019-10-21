@@ -1,0 +1,6 @@
+## Interface: 11302
+## Author: t1dal
+## Version: Classic
+## Title: CenterFrames
+## Notes: Type /centerframes to center your unit frames.
+CenterFrames.lua

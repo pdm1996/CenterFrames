@@ -1,0 +1,11 @@
+//user types /moveframes
+//unlock unit frame
+//move to cord
+//lock unit frame
+
+//do for player and target
+	//different coords	
+	
+//todo:
+//resolution changer
+//reset button
